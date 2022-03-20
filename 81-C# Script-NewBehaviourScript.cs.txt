@@ -1,8 +1,6 @@
-using System.Collections;
-using System.Collections.Generic;
 using UnityEngine;
 
-	#ROOTNAMESPACEBEGIN#
+#ROOTNAMESPACEBEGIN#
 namespace aj
 {
 	public class #SCRIPTNAME# : MonoBehaviour
