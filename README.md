@@ -1,2 +1,1 @@
-# Templates
-Script templates for Unity
+/Users/Shared/Unity/<version>/Unity.app/Contents/Resources/ScriptTemplates
