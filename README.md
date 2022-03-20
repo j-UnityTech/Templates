@@ -1,1 +1,1 @@
-/Users/Shared/Unity/<version>/Unity.app/Contents/Resources/ScriptTemplates
+/Users/Shared/Unity/\<version\>/Unity.app/Contents/Resources/ScriptTemplates
